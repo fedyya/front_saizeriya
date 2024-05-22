@@ -4,7 +4,7 @@ import GetAllData from './getdata';
 function App() {
 	return (
 		<>
-			<h1>Spring boot!</h1>
+			<h1>Saizeriya</h1>
 			<GetAllData />
 		</>
 	);
